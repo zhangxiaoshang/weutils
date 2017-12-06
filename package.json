@@ -1,0 +1,25 @@
+{
+  "name": "weutils",
+  "version": "1.0.0",
+  "description": "js工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxiaoshang/weutils"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "tool",
+    "util"
+  ],
+  "author": "xiaoshang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxiaoshang/weutils/issues"
+  },
+  "homepage": "https://github.com/zhangxiaoshang/weutils#readme"
+}
