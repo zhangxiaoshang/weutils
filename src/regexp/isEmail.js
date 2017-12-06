@@ -4,7 +4,7 @@
  * @return Boolean
  */
 function isEmail(str) {
-    return /\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/.test(str);
+    return /^[\d\w][\d\w]*@[\d\w]\.\w/.test(str);
 }
 
 module.exports = isEmail;
